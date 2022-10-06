@@ -1,8 +1,11 @@
-모임일시 :
+# 모임일시
+
 매주 / 화요일 / 저녁 9시 / 소요시간 2시간
 
-인프런 강의 : https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95#curriculum
-교재 : http://www.yes24.com/Product/Goods/78907450
+# 강의 및 교재
+
+- 인프런 강의 : https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95#curriculum
+- 교재 : http://www.yes24.com/Product/Goods/78907450
 
 # 담당자
 
